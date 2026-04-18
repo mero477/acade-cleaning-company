@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clean.samorhazem.workers.dev/sitemap.xml
